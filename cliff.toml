@@ -1,6 +1,6 @@
 [remote.github]
 owner = "y-writings"
-repo = "templates"
+repo = "cloudflare-terraform"
 
 [changelog]
 # Keep the generated file straightforward and readable in the repository.
